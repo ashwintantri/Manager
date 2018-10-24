@@ -15,8 +15,8 @@ class App extends Component {
   {
     this.setState({
       projects:[{
-          title:'Business Website',
-          category:'Web Design'
+          title:'Website',
+          category:'Web Dev'
         },
         {
           title:'Social App',
